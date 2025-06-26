@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal=self.webpackChunkpersonal||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"\u0622\u062e\u0631\u06cc\u0646 \u067e\u0633\u062a\u200c\u0647\u0627","items":[{"title":"\u062e\u0648\u0634 \u0627\u0648\u0645\u062f\u06cc\u062f!","permalink":"/blog/2025/06/08/welcome","unlisted":false,"date":"2025-06-08T00:00:00.000Z"}]}')}}]);

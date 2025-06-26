@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alirezaivaz.github.io/blog</id>
+    <title>علیرضا ایوز Blog</title>
+    <updated>2025-06-08T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://alirezaivaz.github.io/blog"/>
+    <subtitle>علیرضا ایوز Blog</subtitle>
+    <icon>https://alirezaivaz.github.io/img/icons/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[خوش اومدید!]]></title>
+        <id>https://alirezaivaz.github.io/blog/2025/06/08/welcome</id>
+        <link href="https://alirezaivaz.github.io/blog/2025/06/08/welcome"/>
+        <updated>2025-06-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[به وبلاگ ساده من خوش اومدید!]]></summary>
+        <content type="html"><![CDATA[<p>به وبلاگ ساده من خوش اومدید!</p>
+<p>خیلی زود اینجا از تجربه‌هام، ترفندها و خلاصه هر چیزی که می‌دونم می‌نویسم.</p>]]></content>
+        <author>
+            <name>علیرضا ایوز</name>
+            <uri>https://alirezaivaz.ir</uri>
+        </author>
+    </entry>
+</feed>
