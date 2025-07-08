@@ -121,7 +121,7 @@ const config = {
                 theme: prismThemes.github,
                 darkTheme: prismThemes.dracula,
                 additionalLanguages: [
-                    'powershell', 'bash'
+                    'powershell', 'bash', 'groovy'
                 ],
             },
         }),
